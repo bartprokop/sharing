@@ -1,4 +1,4 @@
-package name.prokop.bart.core;
+package tech.forum.jetty;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

@@ -1,4 +1,4 @@
-package name.prokop.bart.core;
+package tech.forum.undertow;
 
 import io.undertow.Undertow;
 import io.undertow.util.Headers;

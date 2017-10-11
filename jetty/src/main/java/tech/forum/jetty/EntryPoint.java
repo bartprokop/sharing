@@ -1,4 +1,4 @@
-package name.prokop.bart.core;
+package tech.forum.jetty;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletHandler;
