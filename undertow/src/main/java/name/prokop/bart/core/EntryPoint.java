@@ -1,14 +1,8 @@
 package name.prokop.bart.core;
 
 import io.undertow.Undertow;
-import io.undertow.server.HttpHandler;
-import io.undertow.server.HttpServerExchange;
 import io.undertow.util.Headers;
 
-/**
- *
- * @author Bart Prokop
- */
 public class EntryPoint {
 
     public static void main(String... args) {
